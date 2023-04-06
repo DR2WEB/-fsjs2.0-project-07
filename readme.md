@@ -1,4 +1,4 @@
-# Replicate the Following Output
+# Replicate the Following Output :
 
 `Assests are Provided!`
 
